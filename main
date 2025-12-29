@@ -1,0 +1,13 @@
+{
+    "mods": [
+        {
+            "url": "https://github.com/un1to/lancemods/mod1.jar"
+        },
+        {
+            "url": "https://github.com/un1to/lancemods/mod2.jar"
+        },
+        {
+            "url": "https://github.com/un1to/lancemods/mod3.jar"
+        }
+    ]
+}
